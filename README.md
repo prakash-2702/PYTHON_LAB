@@ -1,2 +1,2 @@
-python_lab_work
+PYTHON_LAB_WORK
 SY EXTC/SEM-4
